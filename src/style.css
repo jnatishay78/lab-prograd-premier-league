@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i&display=swap');
-
 * {
     padding: 0;
     margin: 0;
@@ -194,7 +193,6 @@ body {
     border-radius: 4px;
     background-color: #ffffff;
     margin: 40px auto 0 auto;
-
 }
 
 .smalltext {
@@ -234,7 +232,6 @@ body {
     background-color: rgba(0, 0, 0, 0.03);
 }
 
-
 .minor-half {
     display: flex;
     justify-content: space-around;
@@ -253,13 +250,11 @@ body {
 }
 
 .minor-text {
-
     font-size: 14px;
     color: #212121;
 }
 
 .half span {
-
     font-size: 20px;
     font-weight: 800;
     color: #212121;
